@@ -6,6 +6,8 @@
 
 ##Version1
 <p align="center">
-  <img src="https://github.com/danisluis6/Researching-Widget-RadioGroup/blob/version1/Tutorial/1.png">
+  <img src="https://github.com/danisluis6/Mock-up-Dictionary/blob/version1/1.png">
 </p>
-
+<p align="center">
+  <img src="https://github.com/danisluis6/Mock-up-Dictionary/blob/version1/2.png">
+</p>
